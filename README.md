@@ -16,5 +16,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 
 # Screenshot:
-<img src="Develop/assets/notetakerSS.png">
+<img src="assets/note.gif">
 
